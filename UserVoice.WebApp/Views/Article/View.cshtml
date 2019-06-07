@@ -1,0 +1,67 @@
+﻿@model UserVoice.Service.Dtos.MsgArticleDto
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>编辑</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="~/lib/layui/css/layui.css" rel="stylesheet" />
+    <style type="text/css" rel="stylesheet">
+        .layui-form{
+            padding:5px;
+        }
+        .layui-textarea{
+            height:200px;
+            resize:none;
+        }
+    </style>
+</head>
+<body>
+    <form class="layui-form layui-form-pane">
+        <div class="layui-form-item">
+            <label class="layui-form-label">标题:</label>
+            <div class="layui-input-block">
+                <input type="text" name="title" id="title" autocomplete="off" class="layui-input" value="@Model.Title" />
+                <input type="hidden" name="Id" id="Id" value="@Model.Id" />
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <div class="layui-inline">
+                <label class="layui-form-label">时间:</label>
+                <div class="layui-input-block">
+                    <input type="text" name="createdtime" id="createdtime" class="layui-input" value="@(Model.CreatedTime == default(DateTime) ? "" : Model.CreatedTime.ToString("yyyy-MM-dd"))" />
+                </div>
+            </div>
+            <div class="layui-inline">
+                <label class="layui-form-label">作者:</label>
+                <div class="layui-input-inline">
+                    <input type="text" name="author" id="author" class="layui-input" value="@Model.Author" />
+                </div>
+            </div>
+        </div>
+        <div class="layui-form-item layui-form-text">
+            <label class="layui-form-label">留言内容:</label>
+            <div class="layui-input-block">
+                <textarea placeholder="请输入内容" id="Content" name="Content" class="layui-textarea">@Model.MsgContent</textarea>
+            </div>
+        </div>
+    </form>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/layui/lay/modules/laydate.js"></script>
+    <script src="~/lib/layui/layui.all.js"></script>
+    <script type="text/javascript">
+        layui.use(['form', 'layedit', 'laydate'], function () {
+            laydate.render({
+                elem: '#createdtime'
+            });
+        });
+    </script>
+</body>
+</html>

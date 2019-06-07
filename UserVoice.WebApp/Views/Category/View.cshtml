@@ -1,0 +1,45 @@
+﻿@model UserVoice.Service.Dtos.CategoryDto
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>编辑</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="~/lib/layui/css/layui.css" rel="stylesheet" />
+    <style type="text/css" rel="stylesheet">
+        .layui-form {
+            padding: 5px;
+        }
+
+        .layui-textarea {
+            height: 200px;
+            resize: none;
+        }
+    </style>
+</head>
+<body>
+    <form class="layui-form layui-form-pane">
+        <div class="layui-form-item">
+            <label class="layui-form-label">分类名称:</label>
+            <div class="layui-input-block">
+                <input type="text" name="Name" id="Name" autocomplete="off" class="layui-input" value="@Model.Name" />
+                <input type="hidden" name="Id" id="Id" value="@Model.Id" />
+            </div>
+        </div>
+        <div class="layui-form-item layui-form-text">
+            <label class="layui-form-label">备注:</label>
+            <div class="layui-input-block">
+                <textarea placeholder="请输入内容" id="Remark" name="Remark" class="layui-textarea">@Model.Remark</textarea>
+            </div>
+        </div>
+    </form>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+</body>
+</html>

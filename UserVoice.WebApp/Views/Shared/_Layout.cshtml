@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>@(ViewBag.Title == null ? "Index" : ViewBag.Title)</title>
+    <Link href="~/lib/sbadmin/vendor/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" />
+    <Link href="~/lib/sbadmin/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <Link href="~/lib/sbadmin/css/sb-admin.min.css" rel="stylesheet" type="text/css" />
+    <Link href="~/lib/sbadmin/css/extend.css" rel="stylesheet" type="text/css" />
+    @RenderSection("styles", false)
+    <style type="text/css" rel="stylesheet">
+        .content-wrapper {
+            padding-top: 7px !important;
+        }
+
+        .container-fluid {
+            padding-left: 10px !important;
+            padding-right: 10px !important;
+        }
+
+        #exampleAccordion {
+            border-top: 1px solid #333741 !important;
+        }
+    </style>
+</head>
+<body class="fixed-nav sticky-footer bg-dark" id="page-top">
+    <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+        <a class="navbar-brand" href="index.html">留言管理系统</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
+                    <a class="nav-link" data-url="/Home/Default" href="javascript:void(0);">
+                        <i class="fa fa-fw fa-dashboard"></i>
+                        <span class="nav-link-text">首页</span>
+                    </a>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
+                    <a class="nav-link" data-url="/Home/ArticleIndex" href="javascript:void(0);">
+                        <i class="fa fa-list"></i>
+                        <span class="nav-link-text">留言管理</span>
+                    </a>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Tables">
+                    <a class="nav-link" data-url="/Home/CategoryIndex" href="javascript:void(0);">
+                        <i class="fa fa-tag"></i>
+                        <span class="nav-link-text">分类管理</span>
+                    </a>
+                </li>
+            </ul>
+            <ul class="navbar-nav sidenav-toggler">
+                <li class="nav-item">
+                    <a class="nav-link text-center" id="sidenavToggler">
+                        <i class="fa fa-fw fa-angle-left"></i>
+                    </a>
+                </li>
+            </ul>
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" data-toggle="modal" id="btnLogout" data-target="#exampleModal">
+                        <i class="fa fa-fw fa-sign-out"></i>Logout
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="content-wrapper">
+        <div class="container-fluid">
+            @RenderBody()
+        </div>
+        <footer class="sticky-footer">
+            <div class="container">
+                <div class="text-center">
+                    <small>Copyright © Your Website 2018</small>
+                </div>
+            </div>
+        </footer>
+        <!-- Scroll to Top Button-->
+        <a class="scroll-to-top rounded" href="#page-top">
+            <i class="fa fa-angle-up"></i>
+        </a>
+    </div>
+
+    <script type="text/javascript" src="~/lib/jquery/dist/jquery.js"></script>
+    <script type="text/javascript" src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script type="text/javascript" src="~/lib/sbadmin/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript" src="~/lib/sbadmin/js/sb-admin.js"></script>
+    <script type="text/javascript" src="~/lib/layer/layer.js"></script>
+    @RenderSection("scripts", false)
+    <script>
+        $(function () {
+            $("#btnLogout").click(function () {
+                if (confirm("是否退出当前账户？")) {
+                    window.location.href = "/Account/Logout";
+                }
+            });
+        });
+    </script>
+</body>
+</html>

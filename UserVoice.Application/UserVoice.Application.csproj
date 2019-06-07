@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UserVoice.Entity\UserVoice.Entity.csproj" />
+    <ProjectReference Include="..\UserVoice.Repository\UserVoice.Repository.csproj" />
+    <ProjectReference Include="..\UserVoice.Service\UserVoice.Service.csproj" />
+  </ItemGroup>
+
+</Project>

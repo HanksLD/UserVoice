@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Entity\bin\Debug\netcoreapp2.1\UserVoice.Entity.deps.json
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Entity\bin\Debug\netcoreapp2.1\UserVoice.Entity.dll
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Entity\bin\Debug\netcoreapp2.1\UserVoice.Entity.pdb
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Entity\obj\Debug\netcoreapp2.1\UserVoice.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Entity\obj\Debug\netcoreapp2.1\UserVoice.Entity.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Entity\obj\Debug\netcoreapp2.1\UserVoice.Entity.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Entity\obj\Debug\netcoreapp2.1\UserVoice.Entity.dll
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Entity\obj\Debug\netcoreapp2.1\UserVoice.Entity.pdb
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Entity\bin\Debug\netcoreapp2.1\UserVoice.Entity.deps.json
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Entity\bin\Debug\netcoreapp2.1\UserVoice.Entity.dll
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Entity\bin\Debug\netcoreapp2.1\UserVoice.Entity.pdb
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Entity\obj\Debug\netcoreapp2.1\UserVoice.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Entity\obj\Debug\netcoreapp2.1\UserVoice.Entity.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Entity\obj\Debug\netcoreapp2.1\UserVoice.Entity.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Entity\obj\Debug\netcoreapp2.1\UserVoice.Entity.dll
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Entity\obj\Debug\netcoreapp2.1\UserVoice.Entity.pdb
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Entity\bin\Debug\netcoreapp2.1\UserVoice.Entity.deps.json
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Entity\bin\Debug\netcoreapp2.1\UserVoice.Entity.dll
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Entity\bin\Debug\netcoreapp2.1\UserVoice.Entity.pdb
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Entity\obj\Debug\netcoreapp2.1\UserVoice.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Entity\obj\Debug\netcoreapp2.1\UserVoice.Entity.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Entity\obj\Debug\netcoreapp2.1\UserVoice.Entity.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Entity\obj\Debug\netcoreapp2.1\UserVoice.Entity.dll
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Entity\obj\Debug\netcoreapp2.1\UserVoice.Entity.pdb

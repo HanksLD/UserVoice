@@ -1,0 +1,63 @@
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.WebApp.deps.json
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.WebApp.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.WebApp.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.WebApp.dll
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.WebApp.pdb
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Application.dll
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Entity.dll
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Repository.dll
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Service.dll
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Application.pdb
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Entity.pdb
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Repository.pdb
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Service.pdb
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.dll
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.pdb
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.WebApp.deps.json
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.WebApp.runtimeconfig.json
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.WebApp.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.WebApp.dll
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.WebApp.pdb
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Application.dll
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Entity.dll
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Repository.dll
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Service.dll
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Application.pdb
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Entity.pdb
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Repository.pdb
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Service.pdb
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.dll
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.pdb
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.WebApp.deps.json
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.WebApp.runtimeconfig.json
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.WebApp.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.WebApp.dll
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.WebApp.pdb
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Application.dll
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Entity.dll
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Repository.dll
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Service.dll
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Application.pdb
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Entity.pdb
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Repository.pdb
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\bin\Debug\netcoreapp2.1\UserVoice.Service.pdb
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.dll
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.WebApp\obj\Debug\netcoreapp2.1\UserVoice.WebApp.pdb

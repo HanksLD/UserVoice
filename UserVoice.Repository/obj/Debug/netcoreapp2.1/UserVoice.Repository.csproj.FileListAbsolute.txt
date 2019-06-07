@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Repository\bin\Debug\netcoreapp2.1\UserVoice.Repository.deps.json
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Repository\bin\Debug\netcoreapp2.1\UserVoice.Repository.dll
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Repository\bin\Debug\netcoreapp2.1\UserVoice.Repository.pdb
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Repository\bin\Debug\netcoreapp2.1\UserVoice.Entity.dll
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Repository\bin\Debug\netcoreapp2.1\UserVoice.Entity.pdb
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.csproj.CopyComplete
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.dll
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.pdb
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Repository\bin\Debug\netcoreapp2.1\UserVoice.Repository.deps.json
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Repository\bin\Debug\netcoreapp2.1\UserVoice.Repository.dll
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Repository\bin\Debug\netcoreapp2.1\UserVoice.Repository.pdb
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Repository\bin\Debug\netcoreapp2.1\UserVoice.Entity.dll
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Repository\bin\Debug\netcoreapp2.1\UserVoice.Entity.pdb
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.csproj.CopyComplete
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.dll
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.pdb
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Repository\bin\Debug\netcoreapp2.1\UserVoice.Repository.deps.json
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Repository\bin\Debug\netcoreapp2.1\UserVoice.Repository.dll
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Repository\bin\Debug\netcoreapp2.1\UserVoice.Repository.pdb
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Repository\bin\Debug\netcoreapp2.1\UserVoice.Entity.dll
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Repository\bin\Debug\netcoreapp2.1\UserVoice.Entity.pdb
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.csproj.CopyComplete
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.dll
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Repository\obj\Debug\netcoreapp2.1\UserVoice.Repository.pdb

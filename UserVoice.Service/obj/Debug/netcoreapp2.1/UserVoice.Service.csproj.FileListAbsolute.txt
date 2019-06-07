@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Service\bin\Debug\netcoreapp2.1\UserVoice.Service.deps.json
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Service\bin\Debug\netcoreapp2.1\UserVoice.Service.dll
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Service\bin\Debug\netcoreapp2.1\UserVoice.Service.pdb
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Service\obj\Debug\netcoreapp2.1\UserVoice.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Service\obj\Debug\netcoreapp2.1\UserVoice.Service.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Service\obj\Debug\netcoreapp2.1\UserVoice.Service.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Service\obj\Debug\netcoreapp2.1\UserVoice.Service.dll
+C:\Users\Administrator\Desktop\.NET Core\UserVoice.Service\obj\Debug\netcoreapp2.1\UserVoice.Service.pdb
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Service\bin\Debug\netcoreapp2.1\UserVoice.Service.deps.json
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Service\bin\Debug\netcoreapp2.1\UserVoice.Service.dll
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Service\bin\Debug\netcoreapp2.1\UserVoice.Service.pdb
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Service\obj\Debug\netcoreapp2.1\UserVoice.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Service\obj\Debug\netcoreapp2.1\UserVoice.Service.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Service\obj\Debug\netcoreapp2.1\UserVoice.Service.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Service\obj\Debug\netcoreapp2.1\UserVoice.Service.dll
+C:\Users\Administrator\Desktop\.NET Core - 副本\UserVoice.Service\obj\Debug\netcoreapp2.1\UserVoice.Service.pdb
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Service\bin\Debug\netcoreapp2.1\UserVoice.Service.deps.json
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Service\bin\Debug\netcoreapp2.1\UserVoice.Service.dll
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Service\bin\Debug\netcoreapp2.1\UserVoice.Service.pdb
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Service\obj\Debug\netcoreapp2.1\UserVoice.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Service\obj\Debug\netcoreapp2.1\UserVoice.Service.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Service\obj\Debug\netcoreapp2.1\UserVoice.Service.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Service\obj\Debug\netcoreapp2.1\UserVoice.Service.dll
+C:\Users\Administrator\Desktop\UserVoice\UserVoice.Service\obj\Debug\netcoreapp2.1\UserVoice.Service.pdb

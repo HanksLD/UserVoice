@@ -1,0 +1,32 @@
+﻿.framebody {
+    width: 98%;
+}
+.searchpanel-main {
+    border:1px solid #ccc;
+    padding-top:10px;
+    padding-left:1px;
+    padding-bottom:5px;
+}.group-checkable {
+    width: 22px;
+    height: 22px;
+}
+.control-label{
+    height:34px;
+    line-height:34px;
+}
+.page-breadcrumb{
+    height:30px;
+    line-height:30px;
+    list-style-type:none;
+    padding-left:1px;
+    font-size:20px;
+    font-weight:600;
+}
+.page-breadcrumb li a{
+    color:black;
+    text-decoration-style:none;
+}
+.icon-list{
+    font-size:20px !important;
+    line-height:25px !important;
+}
